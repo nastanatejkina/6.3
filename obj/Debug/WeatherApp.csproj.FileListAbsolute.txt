@@ -1,0 +1,11 @@
+C:\Users\swag1\source\repos\WeatherApp\Новая папка\Новая папка\bin\Debug\WeatherApp.exe.config
+C:\Users\swag1\source\repos\WeatherApp\Новая папка\Новая папка\bin\Debug\WeatherApp.exe
+C:\Users\swag1\source\repos\WeatherApp\Новая папка\Новая папка\bin\Debug\WeatherApp.pdb
+C:\Users\swag1\source\repos\WeatherApp\Новая папка\Новая папка\obj\Debug\WeatherApp.csproj.AssemblyReference.cache
+C:\Users\swag1\source\repos\WeatherApp\Новая папка\Новая папка\obj\Debug\WeatherApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\swag1\source\repos\WeatherApp\Новая папка\Новая папка\obj\Debug\WeatherApp.WeatherForm.resources
+C:\Users\swag1\source\repos\WeatherApp\Новая папка\Новая папка\obj\Debug\WeatherApp.Properties.Resources.resources
+C:\Users\swag1\source\repos\WeatherApp\Новая папка\Новая папка\obj\Debug\WeatherApp.csproj.GenerateResource.cache
+C:\Users\swag1\source\repos\WeatherApp\Новая папка\Новая папка\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\swag1\source\repos\WeatherApp\Новая папка\Новая папка\obj\Debug\WeatherApp.exe
+C:\Users\swag1\source\repos\WeatherApp\Новая папка\Новая папка\obj\Debug\WeatherApp.pdb
